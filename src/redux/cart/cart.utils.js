@@ -1,4 +1,4 @@
-// cartItems are the items already in the cart array
+// video 17 - cartItems are the items already in the cart array
 // cartItemToAdd is the item to be added
 export const addItemToCart = (cartItems, cartItemToAdd) => {
   // .find() returns the first item found in the array
